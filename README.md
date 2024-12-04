@@ -1,6 +1,6 @@
 # Projeto Ignite News
 
-Aula da trilha Ignite da Rocketseat!
+Desenvolvido durante NLW da Rocketseat!
 
 A aplicação simula uma plataforma de assinatura de conteúdos focado em notícias, para acessar é necessário autenticar com o Github.
 
